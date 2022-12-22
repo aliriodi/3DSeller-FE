@@ -6,4 +6,5 @@ tecnologias implementadas:
       1. Javascript
       2. React
       3. Redux + @reduxjs/toolkit
+Redux ya etsa andando hay que crear componentes y empezar con el FE 22/12/2022
 
