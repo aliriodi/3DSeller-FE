@@ -1,0 +1,45 @@
+{
+  "products": [
+   {
+    "id": 1,
+    "name": "Alberto Polenta Presto Pronta",
+    "description": "Figura Impresa 3d 15 cm Ideal como regalo y decoración de oficina/mesa! -Impresa en 3D PLA plástico ecológico -Medidas: 15 cm de altura -Excelente figura con detalles en alta calidad -Consultar por mas colores, medidas y modelos!",
+    "price": 1890,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_944492-MLA46557573816_062021-F.webp",
+    "stock": 10
+   },
+   {
+    "id": 2,
+    "name": "Mate de Copa Mundial 3DSeller",
+    "description": "En esta oportunidad estamos presentando un mate de Copa del Mundo. Impreso en PLA, pintado y laqueado. Medida Total: 27 DE ALTO POR 11 DE DIAMETRO Mate: 9cm DE ALTO POR 11cm DE DIAMETROInterior de polímero apto para consumo Bombilla de metal",
+    "price": 3000,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_957171-MLA52972119431_122022-F.webp",
+    "stock": 50
+   },
+   {
+    "id": 3,
+    "name": "Porta celular ligero y portable",
+    "description": "Con este portacelular podras cargar tu equipo donde desees y verlo ergonomicamente donde estes",
+    "price": 1320,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_656820-MLA50473462158_062022-F.webp",
+    "stock": 5
+   },
+   {
+    "id": 4,
+    "name": "Vestido 3DSeller",
+    "description": "El vestido utiliza la tecnología textil cinemática de Nervous System, un sistema a través del cual las prendas son impresas en 3D de un material flexible como una sola pieza plegada. Se compone de 1600 piezas. Porque somos una empresa de Tecnologia a satisfacer las necesidades de clientes exigentes",
+    "price": 21000,
+    "image": "nervous-system-kinematic-petals-dress_005-970x647-c-8.jpg",
+    "stock": 8
+   },
+   {
+    "id": 5,
+    "name": "Vestido Negro corte recto",
+    "description": "compuesto por hexágonos de poliuretano que se adapta perfectamente a cualquier figura.",
+    "price": 22500,
+    "image": "https://img.blogs.es/anexom/wp-content/uploads/2017/08/Moda-3D-780x515.jpg",
+    "stock": 3
+   }
+  ]
+ }
+ 
