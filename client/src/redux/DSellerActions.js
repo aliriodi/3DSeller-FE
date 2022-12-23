@@ -5,5 +5,4 @@ export const  getProducts=  () => async (dispatch) => {
     .then(response=> response.json() )
     .then(myJson  => dispatch(getAllProducts( myJson )) )
     .catch(error => console.log(error));
-    return await api;
-}
+   }

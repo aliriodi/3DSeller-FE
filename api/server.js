@@ -12,7 +12,8 @@ const fs = require('fs');
 // configure our express instance with some body-parser settings
 // including handling JSON data
 app.use((req, res, next) => 
-{res.header('Access-Control-Allow-Origin', '*');  next();});
+{res.header('Access-Control-Allow-Origin', '*');
+res.header('Access-Control-Allow-Methods' ,"OPTIONS, DELETE, POST, GET, PATCH, PUT"); next();});
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
