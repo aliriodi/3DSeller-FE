@@ -10,9 +10,7 @@ const dbRoutes = (app, fs) => {
       JSON.parse(data).products.length ? 
             res.status(200).json(JSON.parse(data)) :
             res.status(404).send("No se encuentran datos");
-    //   res.JSON(data)
-    //   res.send(JSON.parse(data));
-    });
+       });
   });
 };
 module.exports = dbRoutes;
