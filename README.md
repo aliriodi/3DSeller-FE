@@ -15,29 +15,29 @@
 
 __1.  En la ruta Home /Home__:
 
-    - Mostrar descripcion de la empresa
-    - Mostrar Vision - Mision 
+- [ ] Mostrar descripcion de la empresa
+- [ ] Mostrar Vision - Mision 
     
 ___2. En la ruta productos /productos___:
-    - Mostrar 10 productos por pagina con las siguientes caracteristicas:
+- [ ] Mostrar 10 productos por pagina con las siguientes caracteristicas:
         - Nombre
         - Imagen al pulsar la imagen debe ir a al ruta productos/id (Ruta de detalles del producto)
         - Rating 
         - Tipo de producto
         - Precio
-    - Si el stock es cero (el producto no se renderiza)
-    - Boton de agregar carrito
+- [ ] Si el stock es cero (el producto no se renderiza)
+- [ ] Boton de agregar carrito
     
 ___3. Ruta de detalles /productos/id___:
-    - Muestra Nombre del prodcuto
-    - Muestra la imagen del producto con psoibilidad de ver otras iamgenes
-    - Muestra descricpion
-    - Tiempo estimado de fabricacion (de 45 min a 2 horas)
-    - Stock
-    - Boton de agregar carrito
+- [ ] Muestra Nombre del prodcuto
+- [ ] Muestra la imagen del producto con psoibilidad de ver otras iamgenes
+- [ ] Muestra descricpion
+- [ ] Tiempo estimado de fabricacion (de 45 min a 2 horas)
+- [ ] Stock
+- [ ] Boton de agregar carrito
     
 ___4. La barra Search___:
-    - Debe mostrar en el Home la lista de productos que 
+- [ ] Debe mostrar en el Home la lista de productos que 
     
 __5. Ruta de creación de productos__: debe contener
 
