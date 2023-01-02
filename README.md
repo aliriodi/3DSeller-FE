@@ -37,7 +37,7 @@ ___3. Ruta de detalles /productos/id___:
 - [ ] Boton de agregar carrito
     
 ___4. La barra Search___:
-- [ ] Debe mostrar en el Home la lista de productos que 
+- [ ] Debe mostrar en la ruta /productos la lista de productos organizados en grupo de 10 si contienen los datos de la busqueda
     
 __5. Ruta de creación de productos__: debe contener
 
