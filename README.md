@@ -4,10 +4,10 @@
 
 ## Front End
 ### Tecnologias implementadas:
-      1. Javascript
+      1. Javascript + typescript
       2. React
       3. Redux + @reduxjs/toolkit
-      4. Next + typescript
+      4. Nextjs 
       5. MongoDB
       6. 
       
