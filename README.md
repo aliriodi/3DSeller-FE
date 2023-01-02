@@ -20,11 +20,11 @@ __1.  En la ruta Home /Home__:
     
 ___2. En la ruta productos /productos___:
 - [ ] Mostrar 10 productos por pagina con las siguientes caracteristicas:
-        - Nombre
-        - Imagen al pulsar la imagen debe ir a al ruta productos/id (Ruta de detalles del producto)
-        - Rating 
-        - Tipo de producto
-        - Precio
+- Nombre
+- Imagen al pulsar la imagen debe ir a al ruta productos/id (Ruta de detalles del producto)
+- Rating 
+- Tipo de producto
+- Precio
 - [ ] Si el stock es cero (el producto no se renderiza)
 - [ ] Boton de agregar carrito
     
