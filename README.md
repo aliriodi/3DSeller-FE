@@ -53,14 +53,14 @@ En la carpeta api/* deben estar todas las apis requeridas para la consulta de lo
 Se debe desarrollar un servidor en NextJS  para poder consultar el Back End y el Front End con un solo servidor activo con las siguientes rutas:
 
 - [ ] __GET /productos__:
-  - Obtener un listado de los productos con un campo count para saber cuantos productos vienen en la consulta
+  - Obtener un listado de los productos 
   - Debe devolver solo los datos necesarios para la ruta productos
 - [ ] __GET /productos?name="..."__:
   - Obtener un listado de productos que contengan la palabra ingresada como query parameter
   - Si no existe ningún producto mostrar un mensaje adecuado
 - [ ] __GET /producto/{idProducto}__:
   - Obtener el detalle de un producto en particular
-  - Debe traer solo los datos pedidos en la ruta de detalle de producto
+  - Debe traer solo los datos pedidos en la ruta de detalle de producto, si posee mas de una imagen esta debe mostrar imagenes pequeñas debajo de la principal y el usuario puede moverla con scroll si es un celular se debe mover sola en periodo de 2seg.
 - [ ] __POST /productos__:
   - Recibe los datos recolectados desde el formulario controlado de la ruta de creación de producto por body
   - Crea un producto en la base de datos, relacionado a su tipo y aosicado al usuario que lo creo (cliente con su ID, admin con su ID)
