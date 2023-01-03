@@ -13,7 +13,7 @@ const initialState: DSellerStateProucts = {
 export const DSellerSlice = createSlice ({
          name: "products",
          initialState,
-  reducers:{
+  reducers:{ 
     getAllProducts: (state,action)=>{
         state.products = action.payload
     },
