@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 import {useDispatch, useSelector} from 'react-redux';
 import {getProducts} from '../../redux/DSellerActions';
 import Vcard from '../Vcard/Vcard'
-import Nav from '../Nav/Nav'
+
 function Products() {
     const dispatch = useDispatch();
     const {products} = useSelector(state=>state.products);
@@ -11,10 +11,10 @@ function Products() {
     },[])
   return (
     <div>
-        <Nav/>
+       
         <div className='container0'>
         <div className="flex-container">
-      {products.products &&  products.products.map(product3d=>{
+      {products &&  products.map(product3d=>{
                 return ( <Vcard 
                     key={product3d.name}
                     id={product3d.id}
