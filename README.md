@@ -70,7 +70,7 @@ Se debe desarrollar un servidor en NextJS  para poder consultar el Back End y el
   - Debe responder usuario inhabilitado por ADMIN en caso de que el usuario sea dado de baja por politicas de la empresa.
   - Debe responder Clave incorrecta en caso de que el password sea incorrecto y el usuario exista debe dar 3 intentos, al 3er intento el usuario debe regenerar passwd.
   - Debe responder usuario NO EXISTE en caso de que usuario no exista y dar opcion de crear usuario.
-- [ ] __GET /tipoproducto:
+- [ ] __GET /tipoproducto__:
   - Obtener todos los tipos de productos posibles
   
 
