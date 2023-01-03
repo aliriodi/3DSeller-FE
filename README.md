@@ -46,7 +46,7 @@ __5. Ruta de creación de productos__: debe contener
   - Descripción
   - Rating
 - [ ] Agregar tipo de los contenidos en la BD 
-- [ ] Botón/Opción para crear un nuevo videojuego
+- [ ] Botón/Opción para crear un nuevo articulo
     
 ## Back End
 En la carpeta api/data posee un archivo data.json donde esta unos datos temporales mientras en BE esta listo
