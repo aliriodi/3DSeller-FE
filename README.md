@@ -2,7 +2,6 @@
 
 # 3DSeller 
 
-## Front End
 ### Tecnologias implementadas:
       1. Javascript + typescript
       2. React
@@ -13,6 +12,7 @@
       
 ## Boilerplate
 
+## Front End
 __1.  En la ruta Home /Home__:
 
 - [ ] Mostrar descripcion de la empresa
