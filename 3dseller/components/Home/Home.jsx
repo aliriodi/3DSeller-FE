@@ -39,7 +39,7 @@ function Home() {
           </ul>
       
       <div className='buttonproductsH'><button onClick={()=>router.push('/productos')}  className='buttonhome' >VER NUESTROS MODELOS 3D</button></div>
-      <div className='buttonUpModelH'><button onClick={()=>router.push('/productos')} className='buttonhome' >SUBIR MODELO 3D</button></div>
+      <div className='buttonUpModelH'><button  className='buttonhome' >SUBIR MODELO 3D</button></div> 
       
        </div>
        <div className='card2' >
