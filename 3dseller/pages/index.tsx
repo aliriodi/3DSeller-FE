@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Home2 from '../components/Home/Home'
-import Nav from '../components/Nav/Nav'
+
 function Home() {
 
   return (

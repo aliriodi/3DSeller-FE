@@ -4,9 +4,6 @@ import NextCors from 'nextjs-cors';
 import path from 'path';
 import { promises as fs } from 'fs';
 
-// type Data = {
-//   products: JSON
-// }
 
 export default async function handler(
   

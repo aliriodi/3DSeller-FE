@@ -85,7 +85,7 @@ body {
   overflow-x: hidden;
 }
 
-body {
+/* body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,
@@ -93,12 +93,12 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
-}
+} */
 
-a {
+/* a {
   color: inherit;
   text-decoration: none;
-}
+} */
 
 @media (prefers-color-scheme: dark) {
   html {
@@ -108,7 +108,7 @@ a {
 /**/
 .container0{
   display: flex;
-  padding-top: 180px;
+  padding-top: 200px;
 
 }
 .container {
@@ -140,6 +140,10 @@ a {
 .imglogo {
   width: 90px;
   height: 90px;
+}
+.imgfarm {
+  width: 490px;
+  height: auto;
 }
 .homeimg{
   height: 30px;
@@ -199,7 +203,28 @@ a {
 .cardTitle{
   text-align: center
 }
-  
+.card0 {
+  display: block;
+  width: 45%;
+  height: auto;
+  border: 2px solid black;
+  overflow: hidden;
+}
+.card1 {
+  display: block;
+  width: 45%;
+  height: auto;
+  border: 2px solid black;
+  overflow: hidden;
+}
+.card2 {
+  display: block;
+  width: 90%;
+  height: auto;
+  border: 2px solid black;
+  overflow: hidden;
+}
+    
 .imageVcard{
   width: 170px;
  height: 170px;
@@ -213,6 +238,14 @@ a {
   border-radius: 10%;
   display:block;
   margin:auto;
+}
+.buttonhome{
+  width: 150PX;
+  height: 90px;
+  border-radius: 20%;
+  color: rgb(0, 0, 0);
+  background: rgba(249, 183, 2, 0.15);
+
 }
 
 
