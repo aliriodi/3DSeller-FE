@@ -1,5 +1,6 @@
 import React  from 'react';
 import Image from 'next/image';
+import model3d from '../../public/model3d.png'
 import background from '../../public/farm.jpeg';
 import { useRouter } from 'next/router';
 
@@ -23,7 +24,7 @@ function Home() {
 
         {/* <!-- Banner Img --> */}
         <div className="banner-container_img">
-            {/* <Image src={model3d}/> */}
+            <Image src={model3d}/>
         </div>
 
         {/* <!-- Nuestra granja de impresoras 3D mostradas a continuacion trabajaran para dar el mejor servicio del mercado que Ud. pueda imaginar. --> */}
